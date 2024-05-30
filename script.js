@@ -7,3 +7,5 @@ setTimeout(()=>{
 function helloWorld = ( () => {console.log('hello world')});
 
 setInterval( () => {console.log('hey'), 5000});
+
+console.log('this is fun!')
